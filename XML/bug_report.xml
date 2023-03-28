@@ -3,7 +3,7 @@
     <Priority>Medium</Priority>
     <Severity>Minor</Severity>
     <Environment>Win 10 Pro Chrome 109</Environment>
-    <Steps_to_reproduce_1>1. Navigate to Capital.com</Steps_to_reproduce_1>                          
+    <Steps_to_reproduce_1>1. Navigate to 'Web site'</Steps_to_reproduce_1>                          
     <Steps_to_reproduce_2>2. Change language to AR</Steps_to_reproduce_2>
     <Steps_to_reproduce_3>3. Click 'Cookies Settings' button in the footer</Steps_to_reproduce_3>
     <Steps_to_reproduce_4>4. Scroll down</Steps_to_reproduce_4>
