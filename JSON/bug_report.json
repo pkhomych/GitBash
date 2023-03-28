@@ -6,7 +6,7 @@
     "Severity":"Minor",
     "Environment":"Win 10 Pro Chrome 109",
     "Steps to reproduce":[
-                          "1. Navigate to Capital.com",
+                          "1. Navigate to 'Web site'",
                           "2. Change language to AR",
                           "3. Click 'Cookies Settings' button in the footer",
                           "4. Scroll down",
